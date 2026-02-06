@@ -124,3 +124,7 @@ This project focuses on forecasting **cryptocurrency price volatility**, with Bi
 ---
 
 ## 📁 Repository Structure
+## 🧪 How to Run
+```bash
+pip install numpy pandas matplotlib scipy statsmodels arch scikit-learn tensorflow yfinance
+jupyter notebook
